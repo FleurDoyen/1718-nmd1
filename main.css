@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+    font-family: 'Montserrat', sans-serif;}
+
+h1 {font-size: 30px; 
+    color: darkolivegreen; } 
+
+h2 {font-size: 24px; 
+ color: rgb(156, 168, 135);}
+
+ p {font-size: 16px;}
+
+ img {
+    border-radius: 4px;
+    float: left;
+    margin-right: 20px}
+ #foto {width: 15%;
+                }
